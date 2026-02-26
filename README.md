@@ -106,3 +106,4 @@ Comparison of reconstruction methods on EndoNeRF (surgical scenes), in terms of 
 | [Endo-4DGS](https://github.com/lastbasket/Endo-4DGS)    | ✓    | 37.00                            | 0.96 | 0.05                           | -      | 4GB   |
 | [EndoGaussian](https://github.com/CUHK-AIM-Group/EndoGaussian) | ✓    | 37.85  | 0.96 | 0.05                           | 195.09 | 2GB   |
 | [HFGS](https://github.com/Maxwell-Zhao/HFGS)                                                    | ✓    | 38.14   | 0.97   | 0.03  | -      | -     |
+ 
